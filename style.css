@@ -411,3 +411,9 @@ em.error {
   height: 80px;
   width: 100%;
 }
+
+@media (max-width: 600px) {
+  .cmxform {
+   font-size: 15px;
+ }
+}
